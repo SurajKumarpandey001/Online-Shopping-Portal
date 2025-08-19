@@ -22,7 +22,7 @@ This is a **PHP-based Online Shopping Portal** that allows users to browse produ
 ## 🛠️ Installation
 
 **Clone the repository:**
-git clone https://github.com/ChAtulKumarPrusty/Online-Shopping-Portal.git
+git clone https://github.com/SurajKumarpandey001/Online-Shopping-Portal
 
 Import the database:
 Open phpMyAdmin or any MySQL client.
@@ -46,10 +46,10 @@ Visit http://localhost/online-shopping-portal in your browser.
 
 👨‍💼 Admin Login
 Username: admin
-Password: Atul@2005
+Password: Suraj@2005
 
 ✍️ Authors
-Ch Atul Kumar Prusty
+Suraj Kumar
 
 Feel free to ⭐ the repo if you found it helpful!
 
